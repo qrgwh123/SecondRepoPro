@@ -5,3 +5,5 @@ git clone
 git add
 
 git deff
+
+add VSCode
